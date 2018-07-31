@@ -1,6 +1,6 @@
 val=input()
 if val>='a' and val<='z' or val>='A' and val>='Z':
-	print("alphabet")
+	print("Alphabet")
 else:
-	print ("not a alphabet")
+	print ("not a Alphabet")
 
